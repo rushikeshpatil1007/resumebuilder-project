@@ -4,7 +4,7 @@ Build your resume with us
 
 Yotube Link :
 
-Github Link :
+Deployment Link :https://resumebuilder-rp.netlify.app/
 
 
 
