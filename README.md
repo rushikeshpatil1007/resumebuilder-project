@@ -2,7 +2,7 @@ Almabetter-capston-Frontend-project-Resume-Builder
 
 Build your resume with us
 
-Yotube Link :
+Yotube Link :https://youtu.be/eqTBeOVzNls
 
 Deployment Link :https://resumebuilder-rp.netlify.app/
 
